@@ -81,7 +81,7 @@ export const Projects = [
     title: "Portfolio Website",
     text: "A portfolio website showcasing my skills and my projects",
     src: "/portfolio.png",
-    link:"https://google.com"
+    link:"https://personal-website-psi-blue.vercel.app/"
   },
   {
     title: "Lanitra Tahiry",
