@@ -87,7 +87,7 @@ export const Projects = [
     title: "Lanitra Tahiry",
     text: "is a cloud-based platform coupled with AI that enables Lawyers store, organize, and manage their digital files related to their content.",
     src: "/Lanitra_Tahiry.png",
-    link:"https://github.com/jnrakotoniaina/lanitra_tahiry"
+    link:"https://github.com/jnrakotoniaina/lanitra_tahiry.git"
   },
 
   {
